@@ -1,6 +1,3 @@
-import pandas as pd
-import numpy as np
-
 with open('input.txt', 'r') as elf_list:
     # call readlines() to return a list containing each line in the file as a list of strings
     lines = elf_list.readlines()
